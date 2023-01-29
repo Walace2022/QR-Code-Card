@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Walace2022/QR-Code-Card)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [Site](https://walace2022.github.io/QR-Code-Card/)
 
 ## My process
 
